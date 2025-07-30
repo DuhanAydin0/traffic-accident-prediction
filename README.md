@@ -38,7 +38,7 @@ Aynı zamanda aşağıdaki hedeflere ulaşmak istedim:
 
 ## Yağış Türü Kategorileştirmesi (weathercode)
 
-Open-Meteo’dan gelen `weathercode` sütunu çok sayıda farklı hava durumu kodu içerdiği için bunu basitleştirdim.  
+Open-Meteo’dan gelen weathercode sütunu çok sayıda farklı hava durumu kodu içerdiği için bunu basitleştirdim.  
 Her gözlem için hava durumunu şu üç gruptan birine çevirdim:
 
 - yağmur
@@ -183,29 +183,7 @@ Baktığımda hepsinin model öğrenmesinde bir etken olduğunu gördüm
 
 Görseller: results_op2_MAIN/ klasöründe
 
----
 
-## Klasör Yapısı (özet)
-
-
-.
-├── flask_dep.py
-├── dashboard_nn.py
-├── dashboard_xgb.py
-├── models_basic/
-├── models_op/
-├── models_op2/
-├── results_basic/
-├── results_op/
-├── results_op2_MAIN/
-├── model op2 analiz kodları/
-├── veri işlemleri/
-├── data/
-├── requirements.txt
-├── README.md
-
-
----
 
 ## Geliştirici Bilgisi
 
