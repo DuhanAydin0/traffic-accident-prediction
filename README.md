@@ -33,7 +33,7 @@ Aynı zamanda aşağıdaki hedeflere ulaşmak istedim:
 - Ardından TÜİK’ten aldığım şehir bazlı yıllık toplam trafik kazası sayılarını, hava durumu verileriyle eşleştirdim(accident_counts_2022_2024.csv)
 - Böylece her şehir için saatlik gözlem + yıllık kaza sayısı bilgisine sahip veri setini elde ettim.
 
-(Veri setleri 100 mb tan büyük olduğundan data klasöründe ana başlıklarını bıraktım sadece.)
+-(Veri setleri 100 mb tan büyük olduğundan data klasöründe ana başlıklarını bıraktım sadece.)
 ---
 
 ## Yağış Türü Kategorileştirmesi (weathercode)
