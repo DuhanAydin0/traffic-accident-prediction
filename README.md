@@ -17,7 +17,7 @@ Aynı zamanda aşağıdaki hedeflere ulaşmak istedim:
 - Veriyle uğraşmak, etiketlemek, veri mühendisliği yapmak
 - Bir modeli kullanıcıya API olarak sunmak
 - Modelin nasıl düşündüğünü SHAP ve PDP ile analiz etmek
-- Son kullanıcılar için dashboardlar oluşturmak
+- Kullanıcılar için dashboardlar oluşturmak
 
 ---
 
