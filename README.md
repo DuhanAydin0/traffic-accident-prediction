@@ -30,7 +30,7 @@ Aynı zamanda aşağıdaki hedeflere ulaşmak istedim:
 - Saatlik hava durumu verilerini Open-Meteo API üzerinden çektim.
 - Open-Meteo koordinatlarla çalıştığı için önce Türkiye’deki illerin enlem-boylam bilgilerini Turkiye_il_koordinatlar.csv dosyasında topladım.
 - Bu koordinatları kullanarak 2022–2024 yılları arasında 81 şehir için saatlik hava verisini çekip birleştirdim
-- Ardından TÜİK’ten aldığım şehir bazlı yıllık toplam trafik kazası sayılarını, bu hava durumu verileriyle eşleştirdim(accident_counts_2022_2024.csv)
+- Ardından TÜİK’ten aldığım şehir bazlı yıllık toplam trafik kazası sayılarını, hava durumu verileriyle eşleştirdim(accident_counts_2022_2024.csv)
 - Böylece her şehir için saatlik gözlem + yıllık kaza sayısı bilgisine sahip veri setini elde ettim.
 
 (Veri setleri 100 mb tan büyük olduğundan data klasöründe ana başlıklarını bıraktım sadece.)
